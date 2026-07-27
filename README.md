@@ -60,7 +60,7 @@
 ### 🐧 Operating System
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=window"/>
+<img src="https://skillicons.dev/icons?i=Window"/>
 </p>
 
 ---
