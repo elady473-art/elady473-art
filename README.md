@@ -12,7 +12,7 @@
 
 # 💻 About Me
 
-🎓 **3rd Year Computer Science Student**
+🎓 ** Computer Science Student at Hawassa University **
 
 💻 Passionate about designing and developing modern web applications and enterprise software.
 
@@ -81,7 +81,6 @@ Developing a modern Enterprise Resource Planning System using:
 - PostgreSQL
 - JWT Authentication
 - Docker
-- Kafka
 - Redis
 - Microservices
 
@@ -121,7 +120,6 @@ Features include:
 - Docker
 - Kubernetes
 - Redis
-- Kafka
 - System Design
 - Artificial Intelligence
 - Cloud Computing
