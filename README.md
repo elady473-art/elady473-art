@@ -121,17 +121,7 @@ Features include:
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=elady473-art&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elady473-art&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -178,6 +168,7 @@ Features include:
 <a href="https://github.com/elady473-art">
 <img src="https://img.shields.io/badge/GitHub-elady473--art-181717?style=for-the-badge&logo=github"/>
 </a>
+
 
 </p>
 
