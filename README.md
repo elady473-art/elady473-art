@@ -2,7 +2,7 @@
 
 #  Emebet Mesfin
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full-Stack+Developer;Spring+Boot+Backend+Developer;React+%26+Next.js+Developer;Enterprise+Software+Developer;AI+Explorer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full-Stack+Developer;Always+Learning+New+Technologies" />
 
 <img src="https://komarev.com/ghpvc/?username=elady473-art&style=for-the-badge&color=0e75b6"/>
 
@@ -12,7 +12,7 @@
 
 # 💻 About Me
 
-🎓 ** Computer Science Student at Hawassa University **
+🎓  Computer Science Student at Hawassa University 
 
 💻 Passionate about designing and developing modern web applications and enterprise software.
 
@@ -22,11 +22,6 @@
 
 🏗️ Currently building an **Enterprise ERP Procurement & Resource Management System (PRMS)**.
 
-🤖 Interested in **Artificial Intelligence**, **Software Architecture**, and **Modern Web Technologies**.
-
-📚 Continuously learning **Microservices**, **System Design**, **Cloud Computing**, and **Backend Engineering**.
-
-🎯 My goal is to become a skilled **Full-Stack & Enterprise Software Engineer**.
 
 ---
 
@@ -53,19 +48,19 @@
 ### 🗄️ Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 </p>
 
 ### 🛠️ Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,redis,kafka,idea,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,redis,idea,vscode,postman"/>
 </p>
 
 ### 🐧 Operating System
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=window"/>
 </p>
 
 ---
