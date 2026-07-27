@@ -1,16 +1,199 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**elady473-art/elady473-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Emebet Mesfin
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full-Stack+Developer;Spring+Boot+Backend+Developer;React+%26+Next.js+Developer;Enterprise+Software+Developer;AI+Explorer;Always+Learning+New+Technologies" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=elady473-art&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+# 💻 About Me
+
+🎓 **3rd Year Computer Science Student**
+
+💻 Passionate about designing and developing modern web applications and enterprise software.
+
+☕ Backend Developer specializing in **Spring Boot**, **Java**, and **PHP**.
+
+⚛️ Frontend Developer with **React**, **Next.js**, **TypeScript**, **JavaScript**, **HTML**, and **CSS**.
+
+🏗️ Currently building an **Enterprise ERP Procurement & Resource Management System (PRMS)**.
+
+🤖 Interested in **Artificial Intelligence**, **Software Architecture**, and **Modern Web Technologies**.
+
+📚 Continuously learning **Microservices**, **System Design**, **Cloud Computing**, and **Backend Engineering**.
+
+🎯 My goal is to become a skilled **Full-Stack & Enterprise Software Engineer**.
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css"/>
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
+</p>
+
+### 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,redis,kafka,idea,vscode,postman"/>
+</p>
+
+### 🐧 Operating System
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏢 Enterprise ERP System
+
+Developing a modern Enterprise Resource Planning System using:
+
+- Spring Boot
+- React
+- PostgreSQL
+- JWT Authentication
+- Docker
+- Kafka
+- Redis
+- Microservices
+
+---
+
+### 📦 Procurement & Resource Management System (PRMS)
+
+Features include:
+
+- Supplier Management
+- Purchase Requests
+- Purchase Orders
+- Approval Workflow
+- Procurement Dashboard
+- Audit Logs
+- Reports
+- Event-Driven Architecture
+
+---
+
+### 👨‍💼 Employee Management System
+
+- Employee Management
+- Department Management
+- Attendance Tracking
+- Payroll
+- Leave Management
+- Secure Authentication
+
+---
+
+# 🌱 Currently Learning
+
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Microservices
+- Docker
+- Kubernetes
+- Redis
+- Kafka
+- System Design
+- Artificial Intelligence
+- Cloud Computing
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=elady473-art&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elady473-art&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=elady473-art&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elady473-art&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=elady473-art&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://portfolio-eosin-six-ti8q1bl6h1.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="mailto:elady473@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-elady473@gmail.com-red?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/elady473-art">
+<img src="https://img.shields.io/badge/GitHub-elady473--art-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Code with purpose. Learn continuously. Build solutions that make a difference."
+
+⭐ Thanks for visiting my profile!
+
+</div>
