@@ -12,7 +12,7 @@
 
 # 💻 About Me
 
-🎓  Computer Science Student at Hawassa University 
+🎓  Computer Science Student | Hawassa University 
 
 💻 Passionate about designing and developing modern web applications and enterprise software.
 
