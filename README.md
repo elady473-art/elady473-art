@@ -16,7 +16,7 @@
 
 💻 Passionate about designing and developing modern web applications and enterprise software.
 
-☕ Backend Developer specializing in **Spring Boot**, **Java**, and **PHP**.
+☕ Backend Developer specializing in **Spring Boot** and **Java**, .
 
 ⚛️ Frontend Developer with **React**, **Next.js**, **TypeScript**, **JavaScript**, **HTML**, and **CSS**.
 
@@ -54,14 +54,9 @@
 ### 🛠️ Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,redis,idea,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,redis,vscode,postman"/>
 </p>
 
-### 🐧 Operating System
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=Window"/>
-</p>
 
 ---
 
@@ -109,8 +104,7 @@ Features include:
 
 # 🌱 Currently Learning
 
-- Domain-Driven Design (DDD)
-- Clean Architecture
+- ERP system Architecture
 - Microservices
 - Docker
 - Kubernetes
