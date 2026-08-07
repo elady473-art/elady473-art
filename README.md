@@ -1,42 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:38BDF8&height=220&section=header&text=Emebet%20Mesfin&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:22C55E,25:06B6D4,50:0EA5E9,75:14B8A6,100:3B82F6&text=Emebet Mesfin%20ART&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=60"/>
 
-<h2>
- Full Stack Developer
-</h2>
+</div>
 
 
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=#2A9D8F&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Spring+Boot;Frontend+Developer+%7C+React+%26+Next.js;Building+Enterprise+ERP+Systems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Elady;Computer+Science+Student;Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Enterprise+Software+Builder;Building+ERP+Systems"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=elady473-art&style=for-the-badge&color=22C55E"/>
+
+<img src="https://img.shields.io/github/followers/elady473-art?style=for-the-badge&color=06B6D4"/>
+
+<img src="https://img.shields.io/github/stars/elady473-art?style=for-the-badge&color=14B8A6"/>
 
 </div>
 
 
 ---
 
-#  About Me
+# 💫 About Me
+
 
 🎓 Computer Science Student at **Hawassa University**
 
- I love building modern web applications and enterprise software.
+💻 Full-Stack Developer passionate about designing scalable and modern enterprise applications.
 
 ☕ Backend Developer:
+
 - Java
 - Spring Boot
-- REST APIs
 - Spring Security
+- Hibernate
+- REST API
 - JWT Authentication
+- Microservices
 
 
 ⚛️ Frontend Developer:
+
 - React
 - Next.js
 - TypeScript
 - JavaScript
 - Tailwind CSS
 
-Currently building an **Enterprise ERP Procurement & Resource Management System (PRMS)**.
+
+🚀 Currently building:
+
+## Enterprise Procurement & Resource Management System (PRMS)
+
+A professional ERP platform focused on:
+
+- Supplier Management
+- Procurement Workflow
+- Approval System
+- Purchase Orders
+- Reports
+- Audit Tracking
+- Event Driven Architecture
 
 
 ---
@@ -44,189 +79,177 @@ Currently building an **Enterprise ERP Procurement & Resource Management System 
 # 🚀 Tech Stack
 
 
-## 💻 Languages
+## 💻 Programming Languages
 
-<p>
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css"/>
-</p>
 
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,java"/>
-</p>
-
-- Spring Boot
-- Spring Security
-- Hibernate
-- REST API
-- JWT
-
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript"/>
-</p>
-
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,redis"/>
-</p>
-
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux"/>
 </p>
 
 
 ---
 
-#  Projects
+## ⚛️ Frontend Development
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+
+</p>
+
+
+---
+
+## ⚙️ Backend Development
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
+
+</p>
+
+
+---
+
+## 🗄 Database
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
+
+</p>
+
+
+---
+
+## 🛠 Tools & DevOps
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux"/>
+
+</p>
+
+
+---
+
+# 🚀 Featured Projects
 
 
 ## 🏢 Enterprise ERP System
 
-Building a business management system using:
 
-- Spring Boot
-- React
-- PostgreSQL
-- JWT
-- Docker
-- Redis
-- Microservices
+Enterprise business management platform.
 
 
----
+### Technologies:
+# 📊 GitHub Analytics
 
-## 📦 Procurement & Resource Management System (PRMS)
 
-Enterprise procurement platform.
+<div align="center">
 
-Features:
 
-✅ Supplier Management  
-✅ Purchase Requests  
-✅ Purchase Orders  
-✅ Approval Workflow  
-✅ Dashboard  
-✅ Reports  
-✅ Audit Logs  
-✅ Event-Driven Architecture  
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=elady473-art&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elady473-art&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
 
 
 ---
 
-## 👨‍💼 Employee Management System
-
-Full-stack management system.
-
-Features:
-
-- Employee Management
-- Department Management
-- Attendance
-- Payroll
-- Leave Management
-- Authentication
-
-
----
-
-# 🌱 Currently Learning
-
-🚀 System Design  
-🚀 ERP Architecture  
-🚀 Microservices  
-🚀 Docker & Kubernetes  
-🚀 Redis  
-🚀 Cloud Computing  
-🚀 Artificial Intelligence  
-
-
----
 
 # 🔥 GitHub Streak
 
 
 <div align="center">
 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elady473-art&theme=tokyonight&hide_border=true"/>
 
+
 </div>
+
 
 
 ---
 
-# 📊 GitHub Statistics
+
+# ⚡ GitHub Activity
 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=elady473-art&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elady473-art&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elady473-art&theme=react-dark&hide_border=true&area=true"/>
+
 
 </div>
+
 
 
 ---
 
-# 📈 Contribution Graph
+
+# 🏆 GitHub Achievements
 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elady473-art&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=elady473-art&theme=algolia&no-frame=true&row=2&column=6"/>
+
 
 </div>
+
 
 
 ---
 
-# 🏆 GitHub Trophies
+
+# 🐍 Contribution Snake Animation
 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=elady473-art&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+<img src="https://raw.githubusercontent.com/elady473-art/elady473-art/output/github-contribution-grid-snake-dark.svg"/>
+
 
 </div>
+
 
 
 ---
 
-# 🌐 Connect With Me
+
+# 🟢 Coding Activity
 
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/emebet-mesfin-780483358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://portfolio-eosin-six-ti8q1bl6h1.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-
-</div>
+<!--START_SECTION:waka-->
 
 
----
-
-<div align="center">
-
-### 💡 "Code with purpose. Learn continuously. Build solutions that make a difference."
-
-⭐ Thanks for visiting my profile!
+<!--END_SECTION:waka-->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:020617&height=100&section=footer"/>
 
-</div>
+Add WakaTime GitHub Action to automatically update your coding activity.
+
+
+Example:
+
+```text
+Java          ████████████░░ 70%
+JavaScript    ██████░░░░░░░░ 35%
+TypeScript    ████░░░░░░░░░░ 25%
+Spring Boot   ██████████░░░░ 60%
+React         ███████░░░░░░░ 45%
