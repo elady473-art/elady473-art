@@ -207,11 +207,11 @@ Features:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/emebet-mesfin-780483358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appK">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
