@@ -8,7 +8,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Spring+Boot;Frontend+Developer+%7C+React+%26+Next.js;Building+Enterprise+ERP+Systems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=#2A9D8F&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Spring+Boot;Frontend+Developer+%7C+React+%26+Next.js;Building+Enterprise+ERP+Systems;Always+Learning+New+Technologies" />
 
 </div>
 
