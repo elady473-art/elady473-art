@@ -1,70 +1,132 @@
 <div align="center">
 
-#  Emebet Mesfin
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full-Stack+Developer;Always+Learning+New+Technologies" />
-
-<img src="https://komarev.com/ghpvc/?username=elady473-art&style=for-the-badge&color=0e75b6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:38BDF8&height=220&section=header&text=Emebet%20Mesfin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
+
+
+<div align="center">
+
+# 💻 Full Stack Developer | Java & Spring Boot | React & Next.js
+
+### Building modern web applications and enterprise software solutions 🚀
+
+</div>
+
 
 ---
 
 # 💻 About Me
 
-🎓  Computer Science Student | Hawassa University 
+🎓 **Computer Science Student | Hawassa University**
 
-💻 Passionate about designing and developing modern web applications and enterprise software.
+💻 Passionate about designing and developing modern web applications, scalable backend systems, and enterprise software solutions.
 
-☕ Backend Developer specializing in **Spring Boot** and **Java**, .
+☕ Backend Developer specializing in:
 
-⚛️ Frontend Developer with **React**, **Next.js**, **TypeScript**, **JavaScript**, **HTML**, and **CSS**.
+- Java
+- Spring Boot
+- Spring Security
+- REST API Development
+- Enterprise Application Architecture
 
-🏗️ Currently building an **Enterprise ERP Procurement & Resource Management System (PRMS)**.
 
+⚛️ Frontend Developer experienced with:
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+- Shadcn UI
+
+
+🏗️ Currently building an **Enterprise ERP Procurement & Resource Management System (PRMS)** using modern technologies, clean architecture, and industry best practices.
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css"/>
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css"/>
+
 </p>
 
-### ⚙️ Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
+## ⚙️ Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,java"/>
+
 </p>
 
-### 🎨 Frontend
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- REST APIs
+- Hibernate / JPA
+- Microservices Architecture
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
+
+## 🎨 Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind"/>
+
 </p>
 
-### 🗄️ Database
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+## 🗄️ Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgresql,redis"/>
+
 </p>
 
-### 🛠️ Tools
+- PostgreSQL
+- Redis
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,redis,vscode,postman"/>
+
+## 🛠️ Tools & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode"/>
+
 </p>
+
+- Git & GitHub
+- Docker
+- Figma
+- Linux
+- VS Code
 
 
 ---
 
 # 🚀 Featured Projects
 
-### 🏢 Enterprise ERP System
 
-Developing a modern Enterprise Resource Planning System using:
+## 🏢 Enterprise ERP System
+
+Developing a modern Enterprise Resource Planning System designed for scalable business operations.
+
+### Technologies:
 
 - Spring Boot
 - React
@@ -72,106 +134,151 @@ Developing a modern Enterprise Resource Planning System using:
 - JWT Authentication
 - Docker
 - Redis
-- Microservices
+- Microservices Architecture
+
 
 ---
 
-### 📦 Procurement & Resource Management System (PRMS)
+## 📦 Procurement & Resource Management System (PRMS)
 
-Features include:
+An enterprise procurement platform for managing purchasing workflows.
 
-- Supplier Management
-- Purchase Requests
-- Purchase Orders
-- Approval Workflow
-- Procurement Dashboard
-- Audit Logs
-- Reports
-- Event-Driven Architecture
+### Features:
+
+✅ Supplier Management  
+✅ Purchase Requests  
+✅ Purchase Orders  
+✅ Approval Workflow  
+✅ Procurement Dashboard  
+✅ Audit Logs  
+✅ Reports  
+✅ Event-Driven Architecture  
+
+
+Architecture:
+
+```
+Frontend
+   |
+React / Next.js
+   |
+REST API
+   |
+Spring Boot
+   |
+PostgreSQL
+```
+
 
 ---
 
-### 👨‍💼 Employee Management System
+## 👨‍💼 Employee Management System
+
+A full-stack enterprise management application.
+
+### Features:
 
 - Employee Management
 - Department Management
 - Attendance Tracking
-- Payroll
+- Payroll Management
 - Leave Management
 - Secure Authentication
+
 
 ---
 
 # 🌱 Currently Learning
 
-- ERP system Architecture
-- Microservices
-- Docker
-- Kubernetes
-- Redis
-- System Design
-- Artificial Intelligence
-- Cloud Computing
+🚀 ERP System Architecture  
+🚀 Microservices  
+🚀 Docker & Kubernetes  
+🚀 Redis  
+🚀 System Design  
+🚀 Artificial Intelligence  
+🚀 Cloud Computing  
+
 
 ---
 
-
-
 # 🔥 GitHub Streak
 
-<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=elady473-art&theme=tokyonight"/>
+<div align="center">
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elady473-art&theme=tokyo-night"/>
+<div align="center">
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=elady473-art&theme=tokyonight"/>
+<div align="center">
 
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
+
+</div>
+
+
+---
+
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
 
-<a href="https://portfolio-eosin-six-ti8q1bl6h1.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge"/>
+<div align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:elady473@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-elady473@gmail.com-red?style=for-the-badge"/>
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
-<a href="https://github.com/elady473-art">
-<img src="https://img.shields.io/badge/GitHub-elady473--art-181717?style=for-the-badge&logo=github"/>
-</a>
+</div>
 
-
-</p>
 
 ---
 
 <div align="center">
 
+
 ### 💡 "Code with purpose. Learn continuously. Build solutions that make a difference."
 
+
 ⭐ Thanks for visiting my profile!
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:020617&height=120&section=footer"/>
+
 
 </div>
