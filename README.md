@@ -157,7 +157,7 @@ Features:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elady473-art&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -169,9 +169,9 @@ Features:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=elady473-art&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elady473-art&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -183,7 +183,7 @@ Features:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elady473-art&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -195,7 +195,7 @@ Features:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=elady473-art&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -211,7 +211,7 @@ Features:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="">
+<a href="https://portfolio-eosin-six-ti8q1bl6h1.vercel.app/">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
