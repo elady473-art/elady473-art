@@ -1,49 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:38BDF8&height=220&section=header&text=Emebet%20Mesfin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:38BDF8&height=220&section=header&text=Emebet%20Mesfin&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-</div>
+<h2>
+💻 Full Stack Developer
+</h2>
 
+<p>
+Java • Spring Boot • React • Next.js • Enterprise Software
+</p>
 
-<div align="center">
-
-# 💻 Full Stack Developer | Java & Spring Boot | React & Next.js
-
-### Building modern web applications and enterprise software solutions 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Spring+Boot;Frontend+Developer+%7C+React+%26+Next.js;Building+Enterprise+ERP+Systems;Always+Learning+New+Technologies" />
 
 </div>
 
 
 ---
 
-# 💻 About Me
+# 👋 About Me
 
-🎓 **Computer Science Student | Hawassa University**
+🎓 Computer Science Student at **Hawassa University**
 
-💻 Passionate about designing and developing modern web applications, scalable backend systems, and enterprise software solutions.
+💻 I love building modern web applications and enterprise software.
 
-☕ Backend Developer specializing in:
-
+☕ Backend Developer:
 - Java
 - Spring Boot
+- REST APIs
 - Spring Security
-- REST API Development
-- Enterprise Application Architecture
+- JWT Authentication
 
 
-⚛️ Frontend Developer experienced with:
-
+⚛️ Frontend Developer:
 - React
 - Next.js
 - TypeScript
 - JavaScript
-- HTML
-- CSS
 - Tailwind CSS
-- Shadcn UI
 
 
-🏗️ Currently building an **Enterprise ERP Procurement & Resource Management System (PRMS)** using modern technologies, clean architecture, and industry best practices.
+🏗️ Currently building an **Enterprise ERP Procurement & Resource Management System (PRMS)**.
+
 
 ---
 
@@ -53,150 +50,107 @@
 ## 💻 Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css"/>
-
 </p>
 
 
-## ⚙️ Backend Development
+## ⚙️ Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=spring,java"/>
-
 </p>
 
 - Spring Boot
 - Spring Security
-- JWT Authentication
-- REST APIs
-- Hibernate / JPA
-- Microservices Architecture
+- Hibernate
+- REST API
+- JWT
 
 
-## 🎨 Frontend Development
+## 🎨 Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript"/>
 </p>
-
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Shadcn UI
 
 
 ## 🗄️ Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=postgresql,redis"/>
-
 </p>
 
-- PostgreSQL
-- Redis
 
-
-## 🛠️ Tools & DevOps
+## 🛠 Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux"/>
 </p>
-
-- Git & GitHub
-- Docker
-- Figma
-- Linux
-- VS Code
 
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 
 ## 🏢 Enterprise ERP System
 
-Developing a modern Enterprise Resource Planning System designed for scalable business operations.
-
-### Technologies:
+Building a business management system using:
 
 - Spring Boot
 - React
 - PostgreSQL
-- JWT Authentication
+- JWT
 - Docker
 - Redis
-- Microservices Architecture
+- Microservices
 
 
 ---
 
 ## 📦 Procurement & Resource Management System (PRMS)
 
-An enterprise procurement platform for managing purchasing workflows.
+Enterprise procurement platform.
 
-### Features:
+Features:
 
 ✅ Supplier Management  
 ✅ Purchase Requests  
 ✅ Purchase Orders  
 ✅ Approval Workflow  
-✅ Procurement Dashboard  
-✅ Audit Logs  
+✅ Dashboard  
 ✅ Reports  
+✅ Audit Logs  
 ✅ Event-Driven Architecture  
-
-
-Architecture:
-
-```
-Frontend
-   |
-React / Next.js
-   |
-REST API
-   |
-Spring Boot
-   |
-PostgreSQL
-```
 
 
 ---
 
 ## 👨‍💼 Employee Management System
 
-A full-stack enterprise management application.
+Full-stack management system.
 
-### Features:
+Features:
 
 - Employee Management
 - Department Management
-- Attendance Tracking
-- Payroll Management
+- Attendance
+- Payroll
 - Leave Management
-- Secure Authentication
+- Authentication
 
 
 ---
 
 # 🌱 Currently Learning
 
-🚀 ERP System Architecture  
+🚀 System Design  
+🚀 ERP Architecture  
 🚀 Microservices  
 🚀 Docker & Kubernetes  
 🚀 Redis  
-🚀 System Design  
-🚀 Artificial Intelligence  
 🚀 Cloud Computing  
+🚀 Artificial Intelligence  
 
 
 ---
@@ -207,6 +161,20 @@ A full-stack enterprise management application.
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -230,21 +198,7 @@ A full-stack enterprise management application.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
-
-</div>
-
-
----
-
-# 📊 GitHub Statistics
-
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -271,14 +225,11 @@ A full-stack enterprise management application.
 
 <div align="center">
 
-
 ### 💡 "Code with purpose. Learn continuously. Build solutions that make a difference."
-
 
 ⭐ Thanks for visiting my profile!
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:020617&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:020617&height=100&section=footer"/>
 
 </div>
