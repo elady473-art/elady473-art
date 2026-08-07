@@ -3,12 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:38BDF8&height=220&section=header&text=Emebet%20Mesfin&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 <h2>
-💻 Full Stack Developer
+ Full Stack Developer
 </h2>
 
-<p>
-Java • Spring Boot • React • Next.js • Enterprise Software
-</p>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Spring+Boot;Frontend+Developer+%7C+React+%26+Next.js;Building+Enterprise+ERP+Systems;Always+Learning+New+Technologies" />
 
@@ -17,11 +15,11 @@ Java • Spring Boot • React • Next.js • Enterprise Software
 
 ---
 
-# 👋 About Me
+#  About Me
 
 🎓 Computer Science Student at **Hawassa University**
 
-💻 I love building modern web applications and enterprise software.
+ I love building modern web applications and enterprise software.
 
 ☕ Backend Developer:
 - Java
@@ -38,8 +36,7 @@ Java • Spring Boot • React • Next.js • Enterprise Software
 - JavaScript
 - Tailwind CSS
 
-
-🏗️ Currently building an **Enterprise ERP Procurement & Resource Management System (PRMS)**.
+Currently building an **Enterprise ERP Procurement & Resource Management System (PRMS)**.
 
 
 ---
@@ -90,7 +87,7 @@ Java • Spring Boot • React • Next.js • Enterprise Software
 
 ---
 
-# 🚀 Projects
+#  Projects
 
 
 ## 🏢 Enterprise ERP System
