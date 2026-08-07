@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:22C55E,25:06B6D4,50:0EA5E9,75:14B8A6,100:3B82F6&text=Emebet Mesfin%20ART&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=60"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:22C55E,25:06B6D4,50:0EA5E9,75:14B8A6,100:3B82F6&text=Emebet%20Mesfin%20ART&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=60"/>
+
+</div>
 
 </div>
 
