@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+I'm+Emebet;Computer+Science+Student;Full+Stack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=900&lines=Hi+I'm+Emebet;Computer+Science+Student;Full+Stack+Developer"/>
 
 </div>
 
