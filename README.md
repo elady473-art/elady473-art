@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Emebet;Computer+Science+Student;Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Enterprise+Software+Builder;Building+ERP+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+I'm+Emebet;Computer+Science+Student;Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Enterprise+Software+Builder;Building+ERP+Systems"/>
 
 </div>
 
@@ -153,108 +153,60 @@ A professional ERP platform focused on:
 
 Enterprise business management platform.
 
-
 ### Technologies:
-# 📊 GitHub Analytics
 
-
-<div align="center">
-
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=elady473-art&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elady473-art&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
-
+Java • Spring Boot • React • Next.js • TypeScript • PostgreSQL • Docker
 
 ---
 
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elady473-art&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elady473-art&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
 
 # 🔥 GitHub Streak
 
-
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elady473-art&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=elady473-art&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
-
 
 # ⚡ GitHub Activity
 
-
-<div align="center">
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elady473-art&theme=react-dark&hide_border=true&area=true"/>
-
-
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elady473-art&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
-
 
 # 🏆 GitHub Achievements
 
-
-<div align="center">
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=elady473-art&theme=algolia&no-frame=true&row=2&column=6"/>
-
-
-</div>
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elady473-art&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+</p>
 
 ---
-
 
 # 🐍 Contribution Snake Animation
 
-
-<div align="center">
-
-
-<img src="https://raw.githubusercontent.com/elady473-art/output/github-contribution-grid-snake-dark.svg"/>
-
-
-</div>
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elady473-art/elady473-artE/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
-
 # 🟢 Coding Activity
 
-
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
 
+---
 
+### 🤝 Let's Work Together
 
-Add WakaTime GitHub Action to automatically update your coding activity.
-
-
-```text
-Java          ████████████░░ 70%
-JavaScript    ██████░░░░░░░░ 35%
-TypeScript    ████░░░░░░░░░░ 25%
-Spring Boot   ██████████░░░░ 60%
-React         ███████░░░░░░░ 45%
-let's work together 
+I'm always interested in building useful software, learning new technologies, and collaborating on exciting projects.
