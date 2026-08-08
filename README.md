@@ -39,13 +39,12 @@
 # 💫 About Me
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines="4th-Year CS;Junior+Java+%7C+Spring+Boot+Developer;React+%7C+Next.js+Developer;Enterprise+Application+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines=4th-Year+CS+Student;Junior+Java+%7C+Spring+Boot+Developer;React+%7C+Next.js+Developer;Enterprise+Application+Builder" alt="Typing SVG" />
 </h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00BFA6,100:00D9FF&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00BFA6,100:00D9FF&height=120&section=header" width="100%" alt="Ocean header" />
 </p>
-
 🎓 Student at **Hawassa University**
 
 💻 Passionate about designing scalable and modern enterprise applications.
