@@ -84,7 +84,7 @@
 <h2 align="center">🏢 Enterprise Procurement & Resource Management System</h2>
 
 <p align="center">
-  <b>PRMS — Procurement & Resource Management System</b>
+  <b>PRMS - Procurement & Resource Management System</b>
 </p>
 
 A professional ERP platform focused on:
