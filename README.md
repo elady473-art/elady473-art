@@ -56,6 +56,8 @@
 
 ⚛️ Frontend Developer:
 
+- HTML
+- CSS
 - React
 - Next.js
 - TypeScript
@@ -100,7 +102,7 @@ A professional ERP platform focused on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=HTML,CSS,react,nextjs,tailwind,vite"/>
 
 </p>
 
@@ -112,7 +114,7 @@ A professional ERP platform focused on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
+<img src="https://skillicons.dev/icons?i=spring,java,hibernate,maven"/>
 
 </p>
 
@@ -124,7 +126,7 @@ A professional ERP platform focused on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitMQ"/>
 
 </p>
 
@@ -136,7 +138,7 @@ A professional ERP platform focused on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,window"/>
 
 </p>
 
@@ -226,7 +228,7 @@ Enterprise business management platform.
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/elady473-art/elady473-art/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/elady473-art/output/github-contribution-grid-snake-dark.svg"/>
 
 
 </div>
@@ -249,11 +251,10 @@ Enterprise business management platform.
 Add WakaTime GitHub Action to automatically update your coding activity.
 
 
-Example:
-
 ```text
 Java          ████████████░░ 70%
 JavaScript    ██████░░░░░░░░ 35%
 TypeScript    ████░░░░░░░░░░ 25%
 Spring Boot   ██████████░░░░ 60%
 React         ███████░░░░░░░ 45%
+let's work together 
