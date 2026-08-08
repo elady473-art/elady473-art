@@ -168,13 +168,7 @@ Enterprise business management platform designed to manage procurement, approval
 
 ---
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elady473-art&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -197,18 +191,5 @@ Enterprise business management platform designed to manage procurement, approval
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Let's+Connect+%F0%9F%8C%8A;Let's+Build+Together+%F0%9F%9A%80;Open+to+Collaboration+%F0%9F%A4%9D" />
 </p>
----
 
-# 🌊 Let's Work Together
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+%F0%9F%8C%8A;Open+to+collaboration+%F0%9F%A4%9D;Always+learning+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <b>I'm always interested in building useful software, learning new technologies, and collaborating on exciting projects.</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:00BFA6,100:0077B6&height=100&section=footer" width="100%"/>
-</p>
