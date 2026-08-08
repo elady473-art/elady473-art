@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+I'm+Emebet;Computer+Science+Student;Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Enterprise+Software+Builder;Building+ERP+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+I'm+Emebet;Computer+Science+Student;Full+Stack+Developer"/>
 
 </div>
 
@@ -39,16 +39,16 @@
 # 💫 About Me
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Next.js+Developer;Enterprise+Application+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines=4th-Year CS;Junior+Java+%7C+Spring+Boot+Developer;React+%7C+Next.js+Developer;Enterprise+Application+Builder" />
 </h2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00BFA6,100:00D9FF&height=120&section=header" width="100%"/>
 </p>
 
-🎓 Computer Science Student at **Hawassa University**
+🎓 Student at **Hawassa University**
 
-💻 **Full-Stack Developer** passionate about designing scalable and modern enterprise applications.
+💻 Passionate about designing scalable and modern enterprise applications.
 
 ### ☕ Backend Developer
 
@@ -152,15 +152,6 @@ Enterprise business management platform designed to manage procurement, approval
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elady473-art&show_icons=true&theme=transparent&hide_border=true&title_color=00BFA6&icon_color=00D9FF&text_color=7FDBCA" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elady473-art&layout=compact&theme=transparent&hide_border=true&title_color=00BFA6&text_color=7FDBCA" height="180"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -186,23 +177,27 @@ Enterprise business management platform designed to manage procurement, approval
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elady473-art/elady473-art/output/github-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
+
+  <a href="https://github.com/elady473-art" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-elady473--art-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/emebet-mesfin-780483358/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Emebet%20Mesfin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://portfolio-eosin-six-ti8q1bl6h1.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00BFA6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
 </p>
-
----
-
-# 🟢 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elady473-art&theme=transparent&hide_border=true&title_color=00BFA6&text_color=7FDBCA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Let's+Connect+%F0%9F%8C%8A;Let's+Build+Together+%F0%9F%9A%80;Open+to+Collaboration+%F0%9F%A4%9D" />
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 # 🌊 Let's Work Together
