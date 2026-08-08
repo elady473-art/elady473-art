@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:22C55E,25:06B6D4,50:0EA5E9,75:14B8A6,100:3B82F6&text=Emebet%20Mesfin%20ART&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:22C55E,25:06B6D4,50:0EA5E9,75:14B8A6,100:3B82F6&text=Emebet%20Mesfin%20&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=60"/>
 
 </div>
 
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Elady;Computer+Science+Student;Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Enterprise+Software+Builder;Building+ERP+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Emebet;Computer+Science+Student;Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Enterprise+Software+Builder;Building+ERP+Systems"/>
 
 </div>
 
