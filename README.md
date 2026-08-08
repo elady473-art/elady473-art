@@ -131,7 +131,7 @@ A professional ERP platform focused on:
 </p>
 
 
----
+
 
 ## 🛠 Tools & DevOps
 
@@ -143,7 +143,7 @@ A professional ERP platform focused on:
 </p>
 
 
----
+
 
 # 🚀 Featured Projects
 
@@ -157,7 +157,7 @@ Enterprise business management platform.
 
 Java • Spring Boot • React • Next.js • TypeScript • PostgreSQL • Docker
 
----
+
 
 # 📊 GitHub Analytics
 
@@ -195,7 +195,7 @@ Java • Spring Boot • React • Next.js • TypeScript • PostgreSQL • Doc
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elady473-art/elady473-artE/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/elady473-art/elady473-art/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
