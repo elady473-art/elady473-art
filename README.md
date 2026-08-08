@@ -38,12 +38,23 @@
 
 # 💫 About Me
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Next.js+Developer;Enterprise+Application+Builder" />
+</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00BFA6,100:00D9FF&height=120&section=header" width="100%"/>
+</p>
 
 🎓 Computer Science Student at **Hawassa University**
 
-💻 Full-Stack Developer passionate about designing scalable and modern enterprise applications.
+💻 **Full-Stack Developer** passionate about designing scalable and modern enterprise applications.
 
-☕ Backend Developer:
+### ☕ Backend Developer
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" />
+</p>
 
 - Java
 - Spring Boot
@@ -53,8 +64,11 @@
 - JWT Authentication
 - Microservices
 
+### ⚛️ Frontend Developer
 
-⚛️ Frontend Developer:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,typescript,javascript,tailwind&theme=dark" />
+</p>
 
 - HTML
 - CSS
@@ -64,106 +78,86 @@
 - JavaScript
 - Tailwind CSS
 
+---
 
-🚀 Currently building:
+# 🚀 Currently Building
 
-## Enterprise Procurement & Resource Management System (PRMS)
+<h2 align="center">🏢 Enterprise Procurement & Resource Management System</h2>
+
+<p align="center">
+  <b>PRMS — Procurement & Resource Management System</b>
+</p>
 
 A professional ERP platform focused on:
 
-- Supplier Management
-- Procurement Workflow
-- Approval System
-- Purchase Orders
-- Reports
-- Audit Tracking
-- Event Driven Architecture
-
+🔹 Supplier Management  
+🔹 Procurement Workflow  
+🔹 Approval System  
+🔹 Purchase Orders  
+🔹 Reports  
+🔹 Audit Tracking  
+🔹 Event-Driven Architecture
 
 ---
 
 # 🚀 Tech Stack
 
-
 ## 💻 Programming Languages
 
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css"/>
-
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,cpp,html,css&theme=dark" />
 </p>
-
-
----
 
 ## ⚛️ Frontend Development
 
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=HTML,CSS,react,nextjs,tailwind,vite"/>
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" />
 </p>
-
-
----
 
 ## ⚙️ Backend Development
 
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,java,hibernate,maven"/>
-
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" />
 </p>
-
-
----
 
 ## 🗄 Database
 
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitMQ"/>
-
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=dark" />
 </p>
-
-
-
 
 ## 🛠 Tools & DevOps
 
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,window"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,figma&theme=dark" />
 </p>
 
-
-
+---
 
 # 🚀 Featured Projects
 
-
 ## 🏢 Enterprise ERP System
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,50:00BFA6,100:00D9FF&height=80&text=Enterprise%20ERP&fontColor=FFFFFF&fontSize=28&fontAlignY=55" />
+</p>
 
-Enterprise business management platform.
+Enterprise business management platform designed to manage procurement, approvals, suppliers, purchasing, reporting, and business workflows.
 
-### Technologies:
+### Technologies
 
-Java • Spring Boot • React • Next.js • TypeScript • PostgreSQL • Docker
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,typescript,postgresql,redis,docker&theme=dark" />
+</p>
 
-
+---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elady473-art&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elady473-art&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elady473-art&show_icons=true&theme=transparent&hide_border=true&title_color=00BFA6&icon_color=00D9FF&text_color=7FDBCA" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elady473-art&layout=compact&theme=transparent&hide_border=true&title_color=00BFA6&text_color=7FDBCA" height="180"/>
 </p>
 
 ---
@@ -171,7 +165,7 @@ Java • Spring Boot • React • Next.js • TypeScript • PostgreSQL • Doc
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=elady473-art&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=elady473-art&theme=transparent&hide_border=true&ring=00BFA6&fire=00D9FF&currStreakLabel=00BFA6&sideLabels=7FDBCA&currStreakNum=00D9FF&sideNums=00BFA6" />
 </p>
 
 ---
@@ -179,7 +173,7 @@ Java • Spring Boot • React • Next.js • TypeScript • PostgreSQL • Doc
 # ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elady473-art&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elady473-art&bg_color=00000000&color=7FDBCA&line=00BFA6&point=00D9FF&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -187,7 +181,7 @@ Java • Spring Boot • React • Next.js • TypeScript • PostgreSQL • Doc
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elady473-art&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=elady473-art&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
 
 ---
@@ -195,18 +189,32 @@ Java • Spring Boot • React • Next.js • TypeScript • PostgreSQL • Doc
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elady473-art/elady473-art/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/elady473-art/elady473-art/output/github-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
 </p>
 
 ---
 
 # 🟢 Coding Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elady473-art&theme=transparent&hide_border=true&title_color=00BFA6&text_color=7FDBCA" />
+</p>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-### 🤝 Let's Work Together
+# 🌊 Let's Work Together
 
-I'm always interested in building useful software, learning new technologies, and collaborating on exciting projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+%F0%9F%8C%8A;Open+to+collaboration+%F0%9F%A4%9D;Always+learning+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <b>I'm always interested in building useful software, learning new technologies, and collaborating on exciting projects.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:00BFA6,100:0077B6&height=100&section=footer" width="100%"/>
+</p>
