@@ -45,7 +45,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00BFA6,100:00D9FF&height=120&section=header" width="100%" alt="Ocean header" />
 </p>
-🎓 Student at **Hawassa University**
+🎓 Student at Hawassa University
 
 💻 Passionate about designing scalable and modern enterprise applications.
 
