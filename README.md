@@ -49,33 +49,7 @@
 
 💻 Passionate about designing scalable and modern enterprise applications.
 
-### ☕ Backend Developer
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" />
-</p>
-
-- Java
-- Spring Boot
-- Spring Security
-- Hibernate
-- REST API
-- JWT Authentication
-- Microservices
-
-### ⚛️ Frontend Developer
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,typescript,javascript,tailwind&theme=dark" />
-</p>
-
-- HTML
-- CSS
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
 
 ---
 
