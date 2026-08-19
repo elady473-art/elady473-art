@@ -134,16 +134,6 @@ Enterprise business management platform designed to manage procurement, approval
 
 ---
 
-# ⚡ GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elady473-art&bg_color=00000000&color=7FDBCA&line=00BFA6&point=00D9FF&area=true&hide_border=true" width="95%"/>
-</p>
-
----
-
-
-
 # 🌐 Connect With Me
 
 <p align="center">
