@@ -146,7 +146,7 @@ Enterprise business management platform designed to manage procurement, approval
     <img src="https://img.shields.io/badge/LinkedIn-Emebet%20Mesfin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://portfolio-eosin-six-ti8q1bl6h1.vercel.app/" target="_blank">
+  <a href="https://emebet-portfolio-orpin.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00BFA6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
