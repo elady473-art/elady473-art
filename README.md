@@ -107,24 +107,6 @@ A professional ERP platform focused on:
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏢 Enterprise ERP System
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,50:00BFA6,100:00D9FF&height=80&text=Enterprise%20ERP&fontColor=FFFFFF&fontSize=28&fontAlignY=55" />
-</p>
-
-Enterprise business management platform designed to manage procurement, approvals, suppliers, purchasing, reporting, and business workflows.
-
-### Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,typescript,postgresql,redis,docker&theme=dark" />
-</p>
-
----
-
 
 # 🔥 GitHub Streak
 
